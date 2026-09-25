@@ -54,6 +54,12 @@ jobs:
             --exclude='.quartz-cache' \
             vault/ quartz/content/
 
+      - name: Ensure root index page
+        run: |
+          if [ ! -f quartz/content/index.md ] && [ -f "quartz/content/00 Home.md" ]; then
+            cp "quartz/content/00 Home.md" quartz/content/index.md
+          fi
+
       - name: Install site config
         run: cp vault/.github/quartz/quartz.config.ts quartz/quartz.config.ts
 
