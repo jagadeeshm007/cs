@@ -190,6 +190,8 @@
   },
   "active": "602f365c007f9a1d",
   "lastOpenFiles": [
+    "README.md",
+    "README.md.tmp.23237.6ce40926a5f4",
     "plan.md",
     "99 Templates/ADR.md",
     "21 Internals/LLM Inference Internals.md",
@@ -215,7 +217,6 @@
     "18 Resources/Courses & Channels.md",
     "18 Resources/Books Library.md",
     "15 Frontend/Frontend Essentials.md",
-    "14 AI Engineering/RAG.md",
     "Orbit Architecture.canvas",
     "Roadmap.canvas",
     "20 Assignments & Labs",
@@ -226,7 +227,6 @@
     "99 Templates",
     "18 Resources",
     "17 Interview Prep",
-    "16 Capstone",
-    "15 Frontend"
+    "16 Capstone"
   ]
 }
