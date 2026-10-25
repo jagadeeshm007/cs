@@ -1,6 +1,6 @@
-# Shaped SWE 2026
+# Shaped SWE
 
-My personal preparation vault — 24-week roadmap to go from a 0–2 year engineer to production-ready SDE-1/2.
+My engineering knowledge base: system design, distributed systems, Go and Java stacks, data, infrastructure, SRE, security and AI engineering, with design patterns, labs and a capstone.
 Published as a searchable site with backlinks and graph view at:
 
 **https://jagadeeshm007.github.io/cs**
