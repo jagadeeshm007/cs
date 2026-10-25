@@ -5,7 +5,7 @@ created: 2026-09-25
 # 🧭 Shaped SWE 2026: Home
 
 > [!abstract] Mission
-> In **24 weeks** (plus a 2-week buffer, **28 Sep 2026 → 28 Mar 2027**), go from a 0–2 year engineer to someone who can **design, build, ship, scale, and explain** a production system end to end. That is the level a high-paying product MNC hires for at SDE-1 to SDE-2.
+> A **24-week** plan (plus a 2-week buffer, **28 Sep 2026 to 28 Mar 2027**) to go deeper on how to **design, build, ship, scale, and explain** production systems end to end.
 > **Pace:** ~40 hrs/week · **Primary languages:** Java (DSA + Spring) and Go · **Glue:** Python
 
 ## Start here
